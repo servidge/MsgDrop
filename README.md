@@ -1,3 +1,5 @@
+#just the botched msgdrop.ino version from the inspired original version. The .py version and also the rest is untouched. 
+
 # MsgDrop 
 MsgDrop is an open anonymous message passer that may or may not be connected to the Interner(r)(tm). 
 
